@@ -22,16 +22,18 @@ The application allows users to register and authenticate securely. Once authent
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:<br>
 
-git clone https://github.com/your-username/music-recommendation-system.git
+- git clone https://github.com/username/MusicRecommendationBasedOnFacialExpression
+.git<br>
 
-2. Install dependencies for frontend and backend:
-cd music-recommendation-system/frontend
-npm install
+2. Install dependencies for frontend and backend:<br>
+- cd MusicRecommendationBasedOnFacialExpression
+/frontend <br>
+- npm install<br>
 
-cd ../backend
-npm install
+- cd ../backend <br>
+- npm install
 
 
 3. Configure environment variables:
@@ -46,10 +48,10 @@ npm install
 
 4. Start the frontend and backend servers:
 
-cd ../frontend
+cd ../frontend<br/>
 npm run dev
 
-cd ../backend
+cd ../backend<br/>
 node index.js
 
 ## Usage
