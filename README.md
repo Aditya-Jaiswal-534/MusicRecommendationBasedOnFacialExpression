@@ -74,7 +74,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Contact
 
-For any inquiries or support, please contact [Aditya](b22cs003@iitj.ac.in) , [Gaurav](b22cs079@iitj.ac.in).
+For any inquiries or support, please contact [Aditya](mailto:b22cs003@iitj.ac.in) , [Gaurav](mailto:b22cs079@iitj.ac.in).
 
 
 
