@@ -47,11 +47,10 @@ npm install
 4. Start the frontend and backend servers:
 
 cd ../frontend
-npm start
+npm run dev
 
 cd ../backend
-npm start
-
+node index.js
 
 ## Usage
 
