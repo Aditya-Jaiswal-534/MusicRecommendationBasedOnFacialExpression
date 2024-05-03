@@ -1,5 +1,11 @@
 # Music Recommendation System based on Facial Emotion
 
+## Team Members
+
+- Aditya Sahani (B22CS003)
+- Gaurav Manish (B22CS079)
+- Aditya Jaiswal (B22CS025)
+
 ## Description
 
 This project is a web application that recommends music based on the facial emotion of the user. It utilizes ReactJS for the frontend, Node.js and Express for the backend, and MongoDB for the database. Additionally, it integrates PyTorch and TensorFlow for facial emotion recognition.
@@ -69,7 +75,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Contact
 
-For any inquiries or support, please contact [Your Name](mailto:your-email@example.com).
+For any inquiries or support, please contact [Aditya](b22cs003@iitj.ac.in) , [Gaurav](b22cs079@iitj.ac.in).
 
 
 
