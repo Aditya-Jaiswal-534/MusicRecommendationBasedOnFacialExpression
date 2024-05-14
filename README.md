@@ -72,7 +72,7 @@ node index.js
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+Contributions are welcome! Please fork the repository and submit a pull request with your changes we are happy to accept your contributions.
 
 ## Contact
 
