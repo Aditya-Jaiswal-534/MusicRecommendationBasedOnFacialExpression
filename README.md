@@ -3,7 +3,6 @@
 ## Team Members
 
 - Aditya Sahani (B22CS003)
-- Gaurav Manish (B22CS079)
 - Aditya Jaiswal (B22CS025)
 
 ## Description
@@ -76,7 +75,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Contact
 
-For any inquiries or support, please contact [Aditya](mailto:b22cs003@iitj.ac.in) , [Gaurav](mailto:b22cs079@iitj.ac.in).
+For any inquiries or support, please contact [Aditya Sahani](mailto:b22cs003@iitj.ac.in),[Aditya Jaiswal](mailto:b22cs025@iitj.ac.in).
 
 
 
