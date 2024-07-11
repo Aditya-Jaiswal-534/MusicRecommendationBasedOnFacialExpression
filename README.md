@@ -20,6 +20,8 @@ The application allows users to register and authenticate securely. Once authent
 - Database integration: Stores user data and music preferences in MongoDB.
 - Responsive design: Frontend is built using ReactJS, ensuring a seamless experience across devices.
 
+![Home](https://github.com/sahaniaditya/MusicRecommendationBasedOnFacialExpression/blob/90f761a571b2ada63fc915a31c0e46785c60db50/Screenshot%202024-07-11%20092948.png)
+
 ## Installation
 
 1. Clone the repository:<br>
