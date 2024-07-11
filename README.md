@@ -22,6 +22,8 @@ The application allows users to register and authenticate securely. Once authent
 
 ![Home](https://github.com/sahaniaditya/MusicRecommendationBasedOnFacialExpression/blob/90f761a571b2ada63fc915a31c0e46785c60db50/Screenshot%202024-07-11%20092948.png)
 
+![Recommendation](https://github.com/sahaniaditya/MusicRecommendationBasedOnFacialExpression/blob/d43073dcae17a170216e6dd008d0406f113c1145/Screenshot%202024-07-11%20093403.png)
+
 ## Installation
 
 1. Clone the repository:<br>
